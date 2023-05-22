@@ -1,0 +1,144 @@
+# GitHub Labels
+
+- name: bug
+  color: "#d73a4a"
+  description: Something isn't working                                                       
+  delete: false
+
+- name: documentation
+  color: "#0075ca"
+  description: Improvements or additions to documentation                                    
+  delete: false
+
+- name: duplicate
+  color: "#cfd3d7"
+  description: This issue or pull request already exists                                     
+  delete: false
+
+- name: enhancement
+  color: "#a2eeef"
+  description: New feature or request                                                        
+  delete: false
+
+- name: good first issue
+  color: "#7057ff"
+  description: Good for newcomers                                                            
+  delete: false
+
+- name: help wanted
+  color: "#008672"
+  description: Extra attention is needed                                                     
+  delete: false
+
+- name: invalid
+  color: "#e4e669"
+  description: This doesn't seem right                                                       
+  delete: false
+
+- name: question
+  color: "#d876e3"
+  description: Further information is requested                                              
+  delete: false
+
+- name: wontfix
+  color: "#ffffff"
+  description: This will not be worked on                                                    
+  delete: false
+
+# Origin P-Labels
+
+- name: P0
+  color: "#dd0000"
+  description: Blocking an imminent release, "everything is broken", all hands on deck, etc  
+  delete: false
+
+- name: P1
+  color: "#C70000"
+  description: Large amount of significant user impact, a meaningful feature is broken       
+  delete: false
+
+- name: P2
+  color: "#b10000"
+  description: Small number of users are affected, major cosmetic issue                      
+  delete: false
+
+- name: P3
+  color: "#9C0000"
+  description: Users are not significantly affected, minor cosmetic issue                    
+  delete: false
+
+- name: P4
+  color: "#860000"
+  description: Something to consider, a feature request that we may not pursue               
+  delete: false
+
+# Origin Themes
+
+- name: contracts
+  color: "#6339f9"
+  description: Works related to contracts                                                    
+  delete: false
+
+- name: frontend
+  color: "#6339f9"
+  description: Works related to frontend                                                    
+  delete: false
+
+- name: analytics
+  color: "#6339f9"
+  description: Work related to analytics                                                     
+  delete: false
+
+- name: ui/ux
+  color: "#6339f9"
+  description: Workd that requires design and product overview                               
+  delete: false
+
+- name: security
+  color: "#6339f9"
+  description: Security related things                                                       
+  delete: false
+
+# Origin Products
+
+- name: dapp
+  color: "#DAD4A6"
+  description: Relating to OUSD.com                                                          
+  delete: false
+
+- name: governance
+  color: "#DAD4A6"
+  description: Governance related things                                                     
+  delete: false
+
+- name: OETH
+  color: "#DAD4A6"
+  description: OETH related things                                                           
+  delete: false
+
+- name: OUSD
+  color: "#DAD4A6"
+  description: OUSD releated things                                                          
+  delete: false
+
+# Origin Project Management Helpers
+
+- name: dependencies
+  color: "#4A412A"
+  description: Pull requests that update a dependency file                                   
+  delete: false
+
+- name: planned
+  color: "#4A412A"
+  description: In-scope at the beginning of the sprint                                       
+  delete: false
+
+- name: unplanned
+  color: "#4A412A"
+  description: Added to the sprint due to urgency                                            
+  delete: false
+
+- name: blocked
+  color: "#4A412A"
+  description: Waiting for input from product, design, et al                                 
+  delete: false
