@@ -94,14 +94,14 @@
   description: Workd that requires design and product overview                               
   delete: false
 
-- name: security
-  color: "#6339f9"
-  description: Security related things                                                       
-  delete: false
-
 # Origin Products
 
 - name: dapp
+  color: "#DAD4A6"
+  description: Relating to OUSD.com                                                          
+  delete: false
+
+- name: marketing
   color: "#DAD4A6"
   description: Relating to OUSD.com                                                          
   delete: false
@@ -117,6 +117,11 @@
   delete: false
 
 - name: OUSD
+  color: "#DAD4A6"
+  description: OUSD releated things                                                          
+  delete: false
+
+- name: OGV
   color: "#DAD4A6"
   description: OUSD releated things                                                          
   delete: false
@@ -141,4 +146,14 @@
 - name: blocked
   color: "#4A412A"
   description: Waiting for input from product, design, et al                                 
+  delete: false
+
+- name: security
+  color: "#4A412A"
+  description: Security related things                                                       
+  delete: false
+
+- name: devops
+  color: "#4A412A"
+  description: devops and infra related things things                                                       
   delete: false
